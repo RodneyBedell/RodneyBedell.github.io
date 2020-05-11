@@ -14,7 +14,7 @@ body {
 }
 
 header {
-	height: 20px;
+	height: 250px;
 	background-color: #403933;
 	background-image:url(images/subtle_brown_mini_waves.png);
 }
@@ -25,8 +25,16 @@ footer {
 	background-image:url(images/subtle_brown_mini_waves.png);
 }
 
+.left {
+    float:left;
+}
+
+.right {
+    float:right;
+}
+
 .wrapper {
-	width: 580px;
+	width: 800px;
 	margin: auto;	
 }
 
