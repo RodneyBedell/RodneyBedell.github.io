@@ -34,11 +34,12 @@ footer {
 
 /* ---- elements ---- */
 
-.portrait {
-  height : 250px;
-  width : 220px;
-  border-radius: 20%;
-  float: right;
+
+header img {
+	height : 250px;
+  	width : 220px;
+	border-radius: 20%;
+	float: right;
 }
 
 /* ---- text ---- */
